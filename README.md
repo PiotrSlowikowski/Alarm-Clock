@@ -7,4 +7,7 @@ Input time in textfield and push "Set alarm" button to set time of alarm. When t
 new window pops up and the the music starts. To turn it off click "Got it" button.
 
 
-Application based on Java.
+
+-------------------------------------------------------------------
+
+Applcation based on pure Java.
