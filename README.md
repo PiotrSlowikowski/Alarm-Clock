@@ -10,6 +10,6 @@ new window pops up and the the music starts. To turn it off click "Got it" butto
 
 -------------------------------------------------------------------
 
-Applcation based on pure Java.
+Applcation based on Java.
 
 ![alarmclockpic](https://user-images.githubusercontent.com/39311006/49796833-0ba59200-fd3e-11e8-803d-50e0e48e551a.jpg)
